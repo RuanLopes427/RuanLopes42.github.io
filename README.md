@@ -614,27 +614,7 @@ O turnover no período gerou um custo estimado de **$20,42 Milhões** (benchmark
 - Segmentação geracional e suas implicações para RH
 - Benchmark de mercado para contextualização de KPIs
 
----
 
-## 12. Texto para LinkedIn / Portfólio
-
-**Título do projeto:**
-`People Analytics: Análise de Turnover & Risco de Retenção`
-
-**Descrição resumida (para card do portfólio):**
-> Dashboard end-to-end de People Analytics desenvolvido do zero: extração de dados, modelagem Star Schema em SQL Server, e dashboard em Power BI com análise descritiva, diagnóstica e preditiva de turnover. Identifica os 60 colaboradores ativos com maior risco de saída e quantifica o custo financeiro de $20,42 Milhões gerado pelo turnover no período.
-
-**Descrição detalhada:**
-> Este projeto responde uma das perguntas mais críticas para qualquer organização: por que os talentos estão saindo — e quem vai sair a seguir?
->
-> Partindo de um dataset público com 1.470 colaboradores, estruturei um Data Warehouse completo em SQL Server com modelagem Star Schema (1 tabela fato + 5 dimensões), desenvolvi queries analíticas com Window Functions e CTEs, e construí um dashboard de 5 páginas no Power BI com análises descritiva, diagnóstica e preditiva.
->
-> O diferencial técnico está no modelo de score preditivo — um índice composto por 4 fatores de risco que classifica os colaboradores ativos em Crítico, Alto, Médio e Baixo, identificando os 60 casos que demandam ação imediata. A página de Conclusões traduz os dados em 3 recomendações executivas com evidência quantitativa e estimativa de impacto financeiro.
-
-**Competências para destacar no LinkedIn:**
-`Power BI` · `DAX` · `SQL Server` · `T-SQL` · `Star Schema` · `Data Modeling` · `People Analytics` · `ETL` · `Data Visualization` · `Storytelling with Data` · `Business Intelligence` · `HR Analytics`
-
----
 
 *Documentação gerada com base no histórico completo de desenvolvimento do projeto.*
 *Ruan Estevão Barbosa Lopes — ruanestevao51@gmail.com — linkedin.com/in/ruan-lopes-8556573b0*
